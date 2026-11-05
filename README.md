@@ -1,16 +1,19 @@
-## Hi there 👋
+### 🪷 Hi, I'm Marwa Campbell!
 
-<!--
-**marwawam7/marwawam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Media Engineering Student (3rd Semester)**  
+💻 Passionate about the intersection of Web Development, UI/UX Design, and Interactive Media.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I am currently studying Media Engineering. My focus is on combining clean, functional code with intuitive user experiences.
+
+* **📚 Current Focus:** Web Development, Data Structures, UI/UX Prototyping, Media Technology.
+* **🎯 Goal:** Looking for Working Student or Internship opportunities in Frontend Development or UI/UX Engineering.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C++, JavaScript, HTML/CSS, SQL
+* **Design & Prototyping:** Figma, Canva, Adobe, UI/UX Principles
+* **Tools & Workflow:** Git, VS Code
+
+---
